@@ -1,3 +1,3 @@
 # data-analysis-project
 
-bu projede 1996 ve 2014 yılları arasındaki dünyadaki milyonerlerin datalarını analiz etmeye çalıştık. Milyonerlerin hangi bölgede, hangi işleri yaparak geçmişte ve günümüzdeki para kazanma oranlarını toparlayıp bu verileri elde ettik.
+In this project, we tried to analyze the data of millionaires around the world between 1996 and 2014. We have gathered the money earning rates of the millionaires in the past and present by doing what works in which region and obtained this data.
